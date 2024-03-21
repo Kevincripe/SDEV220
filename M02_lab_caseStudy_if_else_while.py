@@ -8,7 +8,7 @@
 while True:
     # save last name of student as variable
     lname = input("Please enter a last name or press ZZZ to quit ")
-    #
+    # quit statement
     if lname == 'ZZZ':
         break
     # save first name of student as variable
