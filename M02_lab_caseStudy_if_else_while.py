@@ -7,12 +7,12 @@
 import sys
 
 while True:
-    # save last name as variable
+    # save last name of student as variable
     lname = input("Please enter a last name or press ZZZ to quit ")
     #
     if lname == 'ZZZ':
         break
-    # save first name as variable
+    # save first name of student as variable
     fname = input("Please enter a first name ")
     # save gpa as a float
     gpa = float(input("Please enter a GPA "))
