@@ -4,7 +4,6 @@
 # GPAs and test if the student qualifies for either the 
 # Dean's List or the Honor Roll.
 
-import sys
 
 while True:
     # save last name of student as variable
